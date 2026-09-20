@@ -1,0 +1,17 @@
+.vs/
+Debug/
+Release/
+x64/
+LiangYuf.CA812AEA/
+*.user
+*.suo
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.pch
+*.ipch
+*.db
+*.tlog
+*.lastbuildstate
+*.log
